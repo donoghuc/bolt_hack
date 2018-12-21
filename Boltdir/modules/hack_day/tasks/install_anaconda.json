@@ -1,0 +1,10 @@
+{
+  "description": "Install Latest Anaconda",
+  "input_method": "environment",
+  "parameters": {
+    "conda_dir": {
+      "description": "Directory to install anaconda",
+      "type": "String[1]"
+    }
+  }
+}

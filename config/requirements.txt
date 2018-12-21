@@ -1,0 +1,34 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+@EXPLICIT
+https://repo.anaconda.com/pkgs/main/linux-64/ca-certificates-2018.03.07-0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/libgcc-ng-7.2.0-hdf63c60_3.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/libstdcxx-ng-7.2.0-hdf63c60_3.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/bzip2-1.0.6-h470a237_2.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/icu-58.2-hfc679d8_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/jansson-2.11-h470a237_1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/libffi-3.2.1-hfc679d8_5.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/libiconv-1.15-h470a237_3.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/ncurses-6.1-hfc679d8_2.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/openssl-1.0.2p-h14c3975_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/pcre-8.41-hfc679d8_3.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/xz-5.2.4-h470a237_1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/yaml-0.1.7-h470a237_1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/zlib-1.2.11-h470a237_3.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/libxml2-2.9.8-h422b904_5.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/readline-7.0-haf1bffa_1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/tk-8.6.9-ha92aebf_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/sqlite-3.26.0-hb1c47c0_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/python-3.7.1-h5001a0f_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/certifi-2018.11.29-py37_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/click-7.0-py37_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/itsdangerous-1.1.0-py37_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/markupsafe-1.0-py37h14c3975_1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/uwsgi-2.0.17.1-py37h2184488_2.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/werkzeug-0.14.1-py37_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/setuptools-40.6.3-py37_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/jinja2-2.10-py37_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/wheel-0.32.3-py37_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/flask-1.0.2-py37_1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/pip-18.1-py37_1000.tar.bz2

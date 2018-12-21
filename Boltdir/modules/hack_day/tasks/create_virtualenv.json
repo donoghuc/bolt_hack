@@ -1,0 +1,14 @@
+{
+  "description": "Install Virtualenv and make vitual env directory",
+  "input_method": "environment",
+  "parameters": {
+    "conda_dir": {
+      "description": "Anaconda Directory",
+      "type": "String[1]"
+    },
+    "venv_name": {
+      "description": "Virtualenv name",
+      "type": "String[1]"
+    }
+  }
+}

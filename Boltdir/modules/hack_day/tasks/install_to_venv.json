@@ -1,0 +1,18 @@
+{
+  "description": "Install packages to venv",
+  "input_method": "environment",
+  "parameters": {
+    "conda_dir": {
+      "description": "Anaconda Directory",
+      "type": "String[1]"
+    },
+    "venv_name": {
+      "description": "Virtualenv name",
+      "type": "String[1]"
+    },
+    "config_file": {
+      "description": "Packages to Install",
+      "type": "String[1]"
+    }
+  }
+}

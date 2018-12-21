@@ -1,0 +1,8 @@
+---
+groups:
+  - name: target
+    nodes:
+      - krlxg2k1fwafy7t.delivery.puppetlabs.net
+config:
+  ssh:
+    host-key-check: false
